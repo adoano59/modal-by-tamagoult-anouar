@@ -7,4 +7,4 @@ A simple, reusable modal component for React applications.
 ## Installation
 
 ```bash
-npm install modal-by-tamagoult-anouar
+npm install modal-by-tamagoultanouar
